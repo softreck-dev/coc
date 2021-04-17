@@ -121,6 +121,18 @@ Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforc
 
 + Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
 
+## Contacting Us
+
++ Questions about this FAQ? [Contact us](mailto:coc@softreck.dev).
+
+## More Information
+
++ [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
++ [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
++ [FAQ - faq.softreck.dev](https://faq.softreck.dev)
++ [Contributing to Softreck Projects | Softreck Code](https://cla.softreck.dev/)
+
+
 ---  
 
 + [edit source](https://github.com/softreck/coc/edit/main/README.md),  [README.md](https://github.com/softreck/coc/blob/main/README.md)
