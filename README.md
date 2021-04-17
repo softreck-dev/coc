@@ -2,9 +2,6 @@
 
 + [Softreck.Dev Foundation Code of Conduct - coc.softreck.dev](https://coc.softreck.dev)
 + [Softreck.Dev Foundation Code of Conduct - on github](https://softreck.github.io/coc/)
----  
-
-+ [edit](https://github.com/softreck/coc/edit/main/README.md) [source](https://github.com/softreck/coc/blob/main/README.md)
 
 ## Preamble
 
@@ -124,3 +121,6 @@ Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforc
 
 + Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
 
+---  
+
++ [edit](https://github.com/softreck/coc/edit/main/README.md) [source](https://github.com/softreck/coc/blob/main/README.md)
