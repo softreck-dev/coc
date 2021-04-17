@@ -123,4 +123,4 @@ Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforc
 
 ---  
 
-+ [edit](https://github.com/softreck/coc/edit/main/README.md) [source](https://github.com/softreck/coc/blob/main/README.md)
++ [edit source](https://github.com/softreck/coc/edit/main/README.md),  [README.md](https://github.com/softreck/coc/blob/main/README.md)
