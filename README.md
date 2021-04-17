@@ -2,7 +2,9 @@
 
 + [Softreck.Dev Foundation Code of Conduct - coc.softreck.dev](https://coc.softreck.dev)
 + [Softreck.Dev Foundation Code of Conduct - on github](https://softreck.github.io/coc/)
-+ [edit](https://github.com/softreck/coc/blob/main/README.md)
+---  
++ [eource: README](https://github.com/softreck/coc/blob/main/README.md)
++ [edit: README](https://github.com/softreck/coc/edit/main/README.md)
 
 ## Preamble
 
